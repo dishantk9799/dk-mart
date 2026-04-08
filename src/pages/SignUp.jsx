@@ -53,7 +53,7 @@ const SignUp = () => {
   };
 
   return (
-    <div className="min-h-screen w-full bg-[#0a0a0a] flex flex-col items-center justify-center p-6">
+    <div className="min-h-screen w-full overflow-hidden bg-[#0a0a0a] flex flex-col items-center justify-center p-6">
       {/* Logo */}
       <div className="flex items-center gap-3 mb-10">
         <div className="w-10 h-10 rounded-xl flex items-center justify-center bg-[#CAFF00]">
